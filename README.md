@@ -40,6 +40,7 @@ Curated AI tools, SaaS platforms, startup resources, and profitable startup idea
 | [SavvyCal](https://savvycal.com/) | Scheduling platform |
 | [Float](https://www.float.com/) | Resource scheduling software |
 | [SmallPDF](https://smallpdf.com/) | Productivity document tools |
+| [EarlyLore](https://earlylore.com/) | SaaS product research for founders — competitors, pricing and feature changes |
 
 ---
 
