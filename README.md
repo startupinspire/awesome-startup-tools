@@ -10,6 +10,7 @@ Curated AI tools, SaaS platforms, startup resources, and profitable startup idea
 |---|---|
 | [Chatbase](https://www.chatbase.co/) | AI-powered customer support agents |
 | [Castmagic](https://www.castmagic.io/) | Convert audio into written content |
+| [MeetNewAI](https://meetnewai.com/) | Free bilingual directory of AI tools, AI games and MCP servers |
 | [Photoroom](https://www.photoroom.com/) | AI photo editing for businesses |
 | [Uizard](https://uizard.io/) | AI-powered UI design tool |
 | [EasyGen](https://easygen.io/) | AI LinkedIn content generation |
