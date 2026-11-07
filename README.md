@@ -63,6 +63,7 @@ Curated AI tools, SaaS platforms, startup resources, and profitable startup idea
 | [Hotjar](https://www.hotjar.com/) | User behavior analytics |
 | [ChartMogul](https://chartmogul.com/) | SaaS subscription analytics |
 | [Baremetrics](https://baremetrics.com/) | SaaS financial metrics |
+| [Vaneform](https://vaneform.com/) | Free website traffic checker with trends, sources, and leaderboards |
 
 ---
 
